@@ -2,10 +2,10 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - 'main'
+      - 'master'
 jobs:
   build-and-deploy:
-    if: github.repository == 'thepaperpilot/guide-to-incremental'
+    if: github.repository == 'thepaperpilot/Guide-to-Incrementals'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -16,7 +16,6 @@ jobs:
       - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
         run: |
           yarn install --frozen-lockfile
-          yarn run generate
           yarn run build
 
       - name: Deploy 🚀
