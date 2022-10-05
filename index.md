@@ -9,6 +9,6 @@ This is a comprehensive guide to Incremental Games, a genre of video games. It w
 
 ## Who am I?
 
-That's a good question! What authority do I have to be making this site? I haven't made the best incremental games, nor the most incremental games, certainly not the most popular ones either. I do have some formal education in game development, know a lot of incremental game devs, as well as other game devs, and an interest in ludology, classifying genres, etc. I've also made [a couple incremental games](https://thepaperpilot.org) myself.
+That's a good question! What authority do I have to be making this site? I haven't made the best incremental games, nor the most incremental games, certainly not the most popular ones either. I do have some formal education in game development, know a lot of incremental game devs, as well as other game devs, and an interest in ludology, classifying genres, etc. I've also made [a couple of incremental games](https://thepaperpilot.org) myself.
 
 If you have any additional questions about my credentials or anything on this site, feel free to contact me: I'm "The Paper Pilot" on most social media. You'll probably get a response fastest via [my discord server](https://discord.gg/F3xveHV), or if you just want to suggest changes to the website you can click the "Edit this page" link present on every single page.

@@ -5,7 +5,7 @@ title: Defining the Genre
 
 Video games are placed into genres for a variety of reasons. They can give a mental shorthand to set the player's expectations up, they can help a game market itself by its similarities to other, already popular games, and honestly, people just love categorization for its own sake. For this guide, it's important to define the genre so it is clear what games it's even talking about.
 
-This poses a problem. "Incremental" is a _horribly_ vague way to define games. _Most_ games have numbers going up in some form or another. We need a more specific definition - similar to how "strategy" can't just mean any game with _any_ amount of strategy, because that would be _most_ games. What specifically differentiates incremental games from the rest?
+This poses a problem. "Incremental" is a _horribly_ vague way to define games. _Most_ games have numbers going up in some form or another. We need a more specific definition - similar to how "strategy" can't just mean any game with _any_ amount of strategy because that would be _most_ games. What specifically differentiates incremental games from the rest?
 
 "Incremental" implies it's a genre defined by a game mechanic, but all those game mechanics it could imply exist in many other games. Having a skill tree or upgrades doesn't make you incremental, and if a reset mechanic is all it takes then every roguelite would be an incremental as well. So clearly there's more to it than that - what makes an incremental an incremental?
 
