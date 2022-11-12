@@ -7,7 +7,7 @@ This is something that has been discussed and analyzed by many people, and to so
 
 ## Numbers Going Up
 
-This is a very common response to why people enjoy incremental games, although it's not one I find compels me personally, and I suspect it might be a stand-in for [progression](#progression) or [content](./content). But reportedly, some people do just like _seeing_ big numbers. I must reiterate I suspect the actual cause is seeing big numbers _in context_ though - if you start at 1e1000 of a currency and get to 1e1001, that isn't going to feel as satisfying as going from 1e10 to 1e100, and in any case, I don't think a button that just adds a zero to your number will feel quite satisfying - I believe its the sense of having made progress, and comparing where you are to where you started and feeling like you've earned your way here that is enjoyable.
+This is a very common response to why people enjoy incremental games, although it's not one I find compels me personally, and I suspect it might be a stand-in for [progression](./appeal-gamers#progression) or [content](./content). But reportedly, some people do just like _seeing_ big numbers. I must reiterate I suspect the actual cause is seeing big numbers _in context_ though - if you start at 1e1000 of a currency and get to 1e1001, that isn't going to feel as satisfying as going from 1e10 to 1e100, and in any case, I don't think a button that just adds a zero to your number will feel quite satisfying - I believe its the sense of having made progress, and comparing where you are to where you started and feeling like you've earned your way here that is enjoyable.
 
 ## Progression
 
